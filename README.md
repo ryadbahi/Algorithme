@@ -1,5 +1,5 @@
 # Algorithme
-
+```plaintext
 // Déclaration et initialisation des variables
 length := 0;
 word_count := 0;  // Initialisé à 0 pour éviter les erreurs
